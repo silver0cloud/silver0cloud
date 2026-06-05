@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohd Yusuf Hesam</h1>
-<h3 align="center">A Passionate Full Stack Developer and Student</h3>
+<h1 align="center">Hey there 👋, I'm Yasir Farooqui</h1>
+<h3 align="center">CS Undergrad - ML Researcher</h3>
 
 <!-- Image removed -->
 
-- 👨‍💻 Check out all of my projects on [GitHub](https://github.com/turbo7slug)
-- 💬 Expertise: **MERN Stack, Flask, Python**
-- ⚡ Core Strengths: Building full-stack web applications, RESTful API development, scalable and efficient backend solutions, and user-centric responsive frontends.
-- 📫 How to reach me: *mohdyusufhesam@gmail.com*
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1c7s6MWOW3OUYRaB16WwO6yIlNqY_DetH/view?usp=sharing)
+- 👨‍💻 Check out all of my projects on [GitHub](https://github.com/silver0cloud)
+- 💬 Expertise: **Pandas, NumPy, Matplotlib, PyTorch, Scikit-Learn, TensorFlow, Ultralytics YOLO**
+- ⚡ Core Strengths: Building production-grade level projects based on unstructured data, researcher in Computer Vision and Audio-Visual ML Frameworks.
+- 📫 How to reach me: *farooquiyasir12@gmail.com*
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1772iL-uKzXwVaalYMGvxnlKQrzKdV3ZV/view?usp=drive_link)
 
 ---
 
