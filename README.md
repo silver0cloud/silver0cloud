@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Yasir Farooqui</h1>
-<h3 align="center">CS Undergrad - ML Researcher</h3>
+<h1 align="center">I'm Yasir Farooqui</h1>
+<h3 align="center">A CS Undergrad and ML Researcher</h3>
 
 <!-- Image removed -->
 
